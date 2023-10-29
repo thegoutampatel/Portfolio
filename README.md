@@ -1,27 +1,16 @@
 # <a href="https://thegoutampatelportfolio.netlify.app/">Personal-Portfolio <a/>
 
-This is My Personal Portfolio Website to ShowCase My Work.
-Weather App Create using HTML, CSS, JavaScript
-## API Use in this Project
+⚡️ This is My Personal Portfolio Website to ShowCase My Work.
 
-#### OpenWeather
-
-```http
-  https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
-```
-```http
-  https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-```
-
+⚡️ Weather App Create using HTML, CSS, JavaScript.
 
 ## Deploying this project using Netlify
-
+➢  <a href="https://thegoutampatelportfolio.netlify.app/">To Live Preview ⎋<a/>
 
 ## Features
-
-- Current Location Info
 - Responsive
-- Get Location information throught city-name.
+- Adding Aminations
+- Adding Project as Card
 
 ##Screenshort
-<img src="https://github.com/thegoutampatel/Weather/assets/142505698/cb83bc66-37ad-4ddf-af90-6059ee9b04fb">
+<img src="https://github.com/thegoutampatel/Portfolio/assets/142505698/c2441a88-e735-43b9-b57c-01ded9e3a315">
