@@ -210,6 +210,9 @@ h2 {
 .about--text {
   margin-top: 3rem;
 }
+#about--degree{
+  color: var(--orange);
+}
 
 .about--tech {
   width: 70%;
@@ -365,7 +368,10 @@ h2 {
 #tech p{
   font-size: 10px;
 }
-#tech i:hover, p:hover{
+#tech i:hover{
+  color: var(--black);
+}
+#tech p:hover{
   color: var(--black);
 }
 .card-content h4{
