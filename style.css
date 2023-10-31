@@ -199,7 +199,6 @@ h2 {
   display: inline-block;
   padding: 1rem;
   border-radius: 1.2rem;
-  border: 1px solid var(--orange);
 }
 
 #about p {
@@ -295,7 +294,6 @@ h2 {
   padding: 1rem;
   text-align: center;
   border-radius: 1.2rem;
-  border: 1px solid var(--orange);
   margin-bottom: 8rem;
 }
 
@@ -458,7 +456,6 @@ h2 {
   display: inline-block;
   padding: 1rem;
   border-radius: 1.2rem;
-  border: 1px solid var(--orange);
 }
 
 .contact--left {
@@ -507,7 +504,6 @@ h2 {
   width: 3rem;
   height: 3rem;
   border-radius: 50%;
-  animation: animLink 10s infinite alternate;
 }
 
 .links li a {
@@ -524,6 +520,7 @@ h2 {
   gap: 3rem;
   color: var(--grey);
   font-size: 1.55rem;
+  text-decoration: none;
 }
 
 footer {
@@ -538,15 +535,6 @@ footer p {
   color: var(--grey);
   font-size: 1.55rem;
   text-align: center;
-}
-
-@keyframes animLink {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
 }
 
 /* Animation */
