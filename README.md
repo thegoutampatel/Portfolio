@@ -13,4 +13,5 @@
 - Adding Project as Card
 
 ##Screenshort
-<img src="https://github.com/thegoutampatel/Portfolio/assets/142505698/c2441a88-e735-43b9-b57c-01ded9e3a315">
+<img src="https://github.com/thegoutampatel/Portfolio/assets/142505698/5aa7beaf-08af-470a-928a-87034da8b0ae">
+
