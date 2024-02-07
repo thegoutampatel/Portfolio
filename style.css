@@ -319,6 +319,7 @@ h2 {
 .projects-list{
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   padding: 50px;
@@ -665,6 +666,7 @@ footer p {
   /* .projects-list */
   .projects-list{
     flex-direction: row;
+
   }
   #contact {
     display: flex;
