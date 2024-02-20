@@ -336,8 +336,9 @@ h2 {
 }
 .card img{
   position: absolute;
-  object-fit: cover;
+  object-fit: contain;
   width: 100%;
+  margin-top: 3px;
   height: 70%;
   top: 0;
   left: 0;
