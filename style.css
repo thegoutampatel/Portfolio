@@ -661,10 +661,12 @@ footer p {
   .about--tech {
     margin-top: unset;
   }
+
 }
 
 @media (min-width: 750px) {
   /* .projects-list */
+
   .projects-list{
     flex-direction: row;
 
@@ -714,8 +716,36 @@ footer p {
       transform: scale(1) translateX(0);
     }
   }
+ 
 }
 
 @media (min-width: 1200px) {
   
+}
+
+
+.popup{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  bottom: 50%;
+  align-self: center;
+  background-color: var(--grey);
+  width: 300px;
+  height: 150px;
+  border-radius: 10px;
+}
+.popup button{
+  width: 80px;
+  height: 30px;
+  border-radius: 10px;
+  margin-bottom: 4px;
+  background-color: #222831;
+  color: white;
+  border: none;
+}
+.popup h3{
+  margin-top: 4px;
 }
